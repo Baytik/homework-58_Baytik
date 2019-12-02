@@ -1,0 +1,29 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.content {
+    background-image: url("main-pic.jpg");
+    background-size: cover;
+    text-align: center;
+}
+h1 {
+    padding-top: 15%;
+    margin: 0;
+    text-transform: uppercase;
+    color: white;
+}
+.main-text {
+    color: white;
+}
+.slaider {
+    cursor: pointer;
+    font-size: 20px;
+    background: blue;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20%;
+}
